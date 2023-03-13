@@ -1,7 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 I am a discord bot developer and small-time website developer
 
-# Projects
+### Projects
 * Just a Bot [Discord Bot]
 * Pocket Value's [Google Plugin]
 * Dragon Empire Bot [Discord Bot]
