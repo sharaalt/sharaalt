@@ -8,7 +8,7 @@ I am a discord bot developer and small-time website developer
 * School Bot [Discord Bot]
 
 # Project's im working on
-· Dragon Empire Bot
+* Dragon Empire Bot
 
 # Contact Information
 Discord: sharafzada#8655
