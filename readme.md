@@ -7,7 +7,7 @@ I am a discord bot developer and small-time website developer
 * Dragon Empire Bot [Discord Bot]
 * School Bot [Discord Bot]
 
-# Project's im working on
+### Project's im working on
 * Dragon Empire Bot
 
 # Contact Information
