@@ -1,3 +1,7 @@
+<a href="https://youtu.be/otCpCn0l4Wo">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharafzada" />
+</a>
+
 # Hi there 👋
 I am a discord bot developer and small-time website developer
 
