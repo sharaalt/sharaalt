@@ -14,8 +14,8 @@ I am a discord bot developer and small-time website developer
 * Money Clicker [Game]
 
 ### Project's im working on
-* Dragon Empire Bot
-* Money Clicker Game
+* Dragon Empire [Discord Bot]
+* Money Clicker [Game]
 
 # Contact Information
 Discord: sharafzada#8655
