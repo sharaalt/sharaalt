@@ -1,4 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharaalt)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharaalt" />
+</a>
 
 
 # Hi there 👋
