@@ -1,6 +1,5 @@
-<a href="https://youtu.be/otCpCn0l4Wo">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharafzada" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Hi there 👋
 I am a discord bot developer and small-time website developer
