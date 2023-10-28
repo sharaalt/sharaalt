@@ -7,16 +7,15 @@
 I am a discord bot developer and small-time website developer
 
 ### Projects
-* Just a Bot [Discord Bot]
+* Just a Bot [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=991094157378461697&permissions=8&scope=bot%20applications.commands)
 * Pocket Value's [Google Plugin]
-* Dragon Empire Bot [Discord Bot]
+* Dragon Empire Bot [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1085392147383078912&permissions=8&scope=applications.commands%20bot)
 * Pro Moderation [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1100594830511448094&permissions=1514781698263&scope=bot%20applications.commands)
 * School Bot [Discord Bot]
-* Money Clicker [Game]
+* Money Clicker [Game](https://store.steampowered.com/app/1934220)
 * Lingling Account Manger [Discord bot](https://discord.com/api/oauth2/authorize?client_id=1036561379903160331&permissions=139599300672&scope=bot%20applications.commands)
 
 ### Project's im working on
-* Dragon Empire [Discord Bot]
 * Money Clicker [Game]
 
 # Contact Information
