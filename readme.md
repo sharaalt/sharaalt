@@ -16,7 +16,7 @@ I am a discord bot developer and small-time website developer
 * Lingling Account Manger [Discord bot](https://discord.com/api/oauth2/authorize?client_id=1036561379903160331&permissions=139599300672&scope=bot%20applications.commands)
 
 ### Project's im working on
-* Money Clicker [Game]
+* Money Clicker [Game](https://store.steampowered.com/app/1934220)
 
 # Contact Information
 Discord: sharafzada#8655
