@@ -19,7 +19,8 @@ I am a discord bot developer and small-time website developer
 * Money Clicker [Game]
 
 # Contact Information
-Discord: sharafzada#8655\n
+Discord: sharafzada#8655
+
 Email: sharafzadayousif@gmail.com
 
 *Reach out to me if you want me to do some stuff for you or general inquiries*
