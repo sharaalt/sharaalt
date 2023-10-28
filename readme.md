@@ -8,7 +8,7 @@ I am a discord bot developer and small-time website developer
 
 ### Projects
 * Just a Bot [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=991094157378461697&permissions=8&scope=bot%20applications.commands)
-* Pocket Value's [Google Plugin]
+* Pocket Value's [Google Plugin](https://github.com/sharaalt/Pocket-Values)
 * Dragon Empire Bot [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1085392147383078912&permissions=8&scope=applications.commands%20bot)
 * Pro Moderation [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1100594830511448094&permissions=1514781698263&scope=bot%20applications.commands)
 * School Bot [Discord Bot]
