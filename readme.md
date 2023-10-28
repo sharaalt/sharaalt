@@ -10,8 +10,10 @@ I am a discord bot developer and small-time website developer
 * Just a Bot [Discord Bot]
 * Pocket Value's [Google Plugin]
 * Dragon Empire Bot [Discord Bot]
+* Pro Moderation [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1100594830511448094&permissions=1514781698263&scope=bot%20applications.commands)
 * School Bot [Discord Bot]
 * Money Clicker [Game]
+* Lingling Account Manger [Discord bot](https://discord.com/api/oauth2/authorize?client_id=1036561379903160331&permissions=139599300672&scope=bot%20applications.commands)
 
 ### Project's im working on
 * Dragon Empire [Discord Bot]
