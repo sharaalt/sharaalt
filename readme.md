@@ -18,6 +18,12 @@ I am a discord bot developer and small-time website developer
 * Money Clicker [Game](https://store.steampowered.com/app/1934220)
 * MultiModeartion [Discord Bot](https://google.com)
 
+## Portfolio
+* Lead Developer @ [Pro Modeartion](https://discord.com/api/oauth2/authorize?)
+* Former Lead Developer @ [Dragon Empire](https://discord.com/api/oauth2/authorize?client_id=1085392147383078912&permissions=8&scope=applications.commands%20bot)
+* Former Lead Developer @ [Just a Bot](https://discord.com/api/oauth2/authorize?client_id=991094157378461697&permissions=8&scope=bot%20applications.commands)
+* Lead Developer @ [MultiModeration](https://www.google.com)
+
 # Contact Information
 Discord: sharafzada#8655
 
