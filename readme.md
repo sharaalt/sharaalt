@@ -24,6 +24,10 @@ I am a discord bot developer and small-time website developer
 * Former Lead Developer @ [Just a Bot](https://discord.com/api/oauth2/authorize?client_id=991094157378461697&permissions=8&scope=bot%20applications.commands)
 * Lead Developer @ [MultiModeration](https://www.google.com)
 
+### Experience
+* 4 Years experience in discord.js v13 & v14
+* 4 Months experience in React & Electron
+
 # Contact Information
 Discord: sharafzada#8655
 
