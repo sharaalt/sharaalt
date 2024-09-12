@@ -4,7 +4,7 @@
 
 
 # Hi there 👋
-I am a discord bot developer and small-time website developer
+I am a discord bot developer and small-time roblox developer
 
 ### Projects
 * Just a Bot [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=991094157378461697&permissions=8&scope=bot%20applications.commands)
@@ -17,6 +17,7 @@ I am a discord bot developer and small-time website developer
 ### Project's im working on
 * Money Clicker [Game](https://store.steampowered.com/app/1934220)
 * MultiModeartion [Discord Bot](https://google.com)
+* Army Framework [Roblox](https://www.roblox.com)
 
 ## Portfolio
 * Lead Developer @ [Pro Modeartion](https://discord.com/api/oauth2/authorize?)
@@ -27,6 +28,7 @@ I am a discord bot developer and small-time website developer
 ### Experience
 * 4 Years experience in discord.js v13 & v14
 * 4 Months experience in React & Electron
+* 1 Month experience in Roblox LUA (Currently learning)
 
 # Contact Information
 Discord: sharafzada#8655
