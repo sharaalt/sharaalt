@@ -26,7 +26,7 @@ I am a discord bot developer and small-time roblox developer
 * Lead Developer @ [MultiModeration](https://www.google.com)
 
 ### Experience
-* 4 Years experience in discord.js v13 & v14
+* 5 Years experience in discord.js v13 & v14
 * 4 Months experience in React & Electron
 * 1 Month experience in Roblox LUA (Currently learning)
 
