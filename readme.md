@@ -12,12 +12,10 @@ I am a discord bot developer and small-time roblox developer
 * Dragon Empire Bot [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1085392147383078912&permissions=8&scope=applications.commands%20bot)
 * Pro Moderation [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1100594830511448094&permissions=1514781698263&scope=bot%20applications.commands)
 * Money Clicker [Game](https://store.steampowered.com/app/1934220)
-* Lingling Account Manger [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1036561379903160331&permissions=139599300672&scope=bot%20applications.commands)
 
 ### Project's im working on
 * Money Clicker [Game](https://store.steampowered.com/app/1934220)
-* MultiModeartion [Discord Bot](https://google.com)
-* Army Framework [Roblox](https://www.roblox.com)
+* COR Weapon Engine [Game](https://roblox.com)
 
 ## Portfolio
 * Lead Developer @ [Pro Modeartion](https://discord.com/api/oauth2/authorize?)
@@ -35,4 +33,4 @@ Discord: sharafzada#8655
 
 Email: sharafzadayousif@gmail.com
 
-*Reach out to me if you want me to do some stuff for you or general inquiries*
+*Reach out to me if you have any general inquires or you need some coding help by chance*
