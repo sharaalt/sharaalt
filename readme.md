@@ -1,10 +1,10 @@
+# Hi there 👋
+I am a discord bot developer and roblox developer
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharaalt" />
 </a>
 
-
-# Hi there 👋
-I am a discord bot developer and small-time roblox developer
 
 ### Projects
 * Just a Bot [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=991094157378461697&permissions=8&scope=bot%20applications.commands)
@@ -14,19 +14,18 @@ I am a discord bot developer and small-time roblox developer
 * Money Clicker [Game](https://store.steampowered.com/app/1934220)
 
 ### Project's im working on
-* Money Clicker [Game](https://store.steampowered.com/app/1934220)
-* COR Weapon Engine [Game](https://roblox.com)
+* Asterick [Game](https://roblox.com)
 
 ## Portfolio
-* Lead Developer @ [Pro Modeartion](https://discord.com/api/oauth2/authorize?)
+* Former Lead Developer @ [Pro Modeartion](https://discord.com/api/oauth2/authorize?)
 * Former Lead Developer @ [Dragon Empire](https://discord.com/api/oauth2/authorize?client_id=1085392147383078912&permissions=8&scope=applications.commands%20bot)
 * Former Lead Developer @ [Just a Bot](https://discord.com/api/oauth2/authorize?client_id=991094157378461697&permissions=8&scope=bot%20applications.commands)
-* Lead Developer @ [MultiModeration](https://www.google.com)
+* Former Lead Developer @ [MultiModeration](https://www.google.com)
 
 ### Experience
 * 4 Years experience in discord.js v13 & v14
 * 4 Months experience in React & Electron
-* 3 Month experience in Roblox LUA (Currently learning)
+* 1 Month experience in Roblox LUA (Currently learning)
 
 # Contact Information
 Discord: sharafzada#8655
