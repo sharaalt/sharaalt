@@ -2,9 +2,8 @@
 I am a discord bot developer and roblox developer
 
 <a>
-<img img="https://github-readme-stats.vercel.app/api?username=sharaalt&show_icons=true&bg_color=00000000"></img>  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharaalt"/>
 </a>
-
 
 ### Projects
 * Just a Bot [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=991094157378461697&permissions=8&scope=bot%20applications.commands)
