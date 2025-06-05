@@ -1,7 +1,9 @@
 # Hi there 👋
 I am a discord bot developer and roblox developer
 
-![Sharafzada's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharaalt&show_icons=true&bg_color=00000000)
+<a>
+<img img="![Sharafzada's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharaalt&show_icons=true&bg_color=00000000)"></img>  
+</a>
 
 
 ### Projects
