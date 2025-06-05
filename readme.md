@@ -2,7 +2,7 @@
 I am a discord bot developer and roblox developer
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharaalt" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharaalt"/>
 </a>
 
 
