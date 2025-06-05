@@ -2,7 +2,7 @@
 I am a discord bot developer and roblox developer
 
 <a>
-<img img="![Sharafzada's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharaalt&show_icons=true&bg_color=00000000)"></img>  
+<img img="https://github-readme-stats.vercel.app/api?username=sharaalt&show_icons=true&bg_color=00000000"></img>  
 </a>
 
 
