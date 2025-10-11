@@ -23,7 +23,7 @@ I am a discord bot developer and roblox developer
 ### Experience
 * 4 Years experience in discord.js v13 & v14
 * 4 Months experience in React & Electron
-* 6 Month experience in Roblox LUA (Currently learning)
+* 4 Years experience in Roblox LUA (Currently learning)
 
 # Contact Information
 Discord: sharafzada#8655
