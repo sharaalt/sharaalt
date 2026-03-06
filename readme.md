@@ -2,7 +2,7 @@
 I am a discord bot developer and roblox developer
 
 <a>
-<img align="right" src="https://github-readme-stats-4ok6i5086-sharafzadas-projects.vercel.app"/>
+<img align="right" src="https://github-readme-stats-eta-brown-44.vercel.app/api/top-langs?username=sharaalt"/>
 </a>
 
 ### Projects
