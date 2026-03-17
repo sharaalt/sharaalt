@@ -1,29 +1,23 @@
 # Hi there 👋
-I am a discord bot developer and roblox developer
+I'm a Roblox Developer and Discord Bot Developer currently I am working on just 1 project (which is a roblox game) which you can find in my bio 
 
 <a>
 <img align="right" src="https://github-readme-stats-eta-brown-44.vercel.app/api/top-langs?username=sharaalt"/>
 </a>
 
-### Projects
-* Just a Bot [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=991094157378461697&permissions=8&scope=bot%20applications.commands)
-* Dragon Empire Bot [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1085392147383078912&permissions=8&scope=applications.commands%20bot)
-* Pro Moderation [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1100594830511448094&permissions=1514781698263&scope=bot%20applications.commands)
-* Money Clicker [Game](https://store.steampowered.com/app/1934220)
-
 ### Project's im working on
-* Asterick [Game](https://roblox.com)
+* Asterisk [Game](https://roblox.com)
+* Learning Lua [Guide](https://docs.google.com/document/d/1AuUb_T4un_rCjZnnslXEUfLT3hU-GdVGRlg7MaePE3s/edit?usp=sharing)
 
 ## Portfolio
 * Former Lead Developer @ [Pro Modeartion](https://discord.com/api/oauth2/authorize?)
-* Former Lead Developer @ [Dragon Empire](https://discord.com/api/oauth2/authorize?client_id=1085392147383078912&permissions=8&scope=applications.commands%20bot)
 * Former Lead Developer @ [Just a Bot](https://discord.com/api/oauth2/authorize?client_id=991094157378461697&permissions=8&scope=bot%20applications.commands)
-* Former Lead Developer @ [MultiModeration](https://www.google.com)
+* Project lead @ [Astrocom](https://discord.gg/chANMyDngY)
 
 ### Experience
 * 4 Years experience in discord.js v13 & v14
 * 4 Months experience in React & Electron
-* 4 Years experience in Roblox LUA (Currently learning)
+* 6 Years experience in Roblox LUA
 
 # Contact Information
 Discord: sharafzada#8655
