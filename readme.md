@@ -6,10 +6,10 @@ I'm a Roblox Developer and Discord Bot Developer currently I am working on just 
 </a>
 
 ### Project's im working on
-* Asterisk [Game](https://roblox.com)
 * Learning Lua [Guide](https://docs.google.com/document/d/1AuUb_T4un_rCjZnnslXEUfLT3hU-GdVGRlg7MaePE3s/edit?usp=sharing)
 
 ### Portfolio
+* Former Project Head @ [Astrocom]([https://roblox.com](https://www.roblox.com/communities/34279690/ASTROCOM#!/about))
 * Former Lead Developer @ [Pro Modeartion](https://discord.com/api/oauth2/authorize?)
 * Former Lead Developer @ [Just a Bot](https://discord.com/api/oauth2/authorize?client_id=991094157378461697&permissions=8&scope=bot%20applications.commands)
 * Project lead @ [Astrocom](https://discord.gg/chANMyDngY)
