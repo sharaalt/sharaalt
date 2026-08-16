@@ -6,7 +6,8 @@ I'm a Roblox Developer and Discord Bot Developer currently I am working on just 
 </a>
 
 ### Project's im working on
-* Learning Lua [Guide](https://docs.google.com/document/d/1AuUb_T4un_rCjZnnslXEUfLT3hU-GdVGRlg7MaePE3s/edit?usp=sharing)
+* Developer @ [Blue Rose Development](https://www.roblox.com/communities/32890507/Blue-Rose-Development#!/about)
+* Learning Lua [Guide](https://google.com)
 
 ### Portfolio
 * Former Project Head @ [Astrocom]([https://roblox.com](https://www.roblox.com/communities/34279690/ASTROCOM#!/about))
