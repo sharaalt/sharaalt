@@ -21,6 +21,7 @@ I'm a Roblox Developer and Discord Bot Developer currently, I'm working on a cou
 
 # Contact Information
 Discord: sharafzada#8655
+
 Email: sharafzada.rblx@gmail.com
 
 *Reach out to me if you have any general inquires or you need some coding help by chance*
